@@ -10,3 +10,6 @@ I'm Artem from Moscow, Russia. An aspiring Frontend Developer, who likes to brin
 <a href="https://aslyubavin.github.io/project-Healthy-calculator/"><img src="healthy.gif" width="300" height="144" hspace="30"/></a>
 <a href="https://aslyubavin.github.io/project-Lugar/"><img src="lugar.gif" width="300" height="144" /></a>
 </p>
+<p float="left">
+<a href="https://aslyubavin.github.io/project-Gallery/"><img src="gallery.gif" width="300" height="144" hspace="30"/></a>
+</p>
